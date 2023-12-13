@@ -1,0 +1,25 @@
+body {
+  background-image: url(https://cdnb.artstation.com/p/assets/images/images/053/207/067/large/nikhil-mishra-hanuman-8-3-wm.jpg?1661687366);
+  background-size: cover;
+}
+p {
+  font-size: 2rem;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h1 {
+  font-size: 11rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#main {
+  /* color: #ff4500; */
+  background-image: url(https://i.ytimg.com/vi/yDXJZ5G2S3I/maxresdefault.jpg);
+  background-size: cover;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
